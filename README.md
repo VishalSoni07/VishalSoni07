@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VishalSoni07
-- 👀 I’m interested in solving real-life problems using technology
+- 👀 I’m interested in solving real-life problems using technology & I love experimentation.
 - 🌱 I’m currently learning Blockchain
-- 💞️ I’m looking to collaborate on Open Source, Front-end & Blockchain problems
+- 💞️ I’m looking to collaborate on Research Experimentation, Open Source, Front-end & Blockchain problems
 - 📫 How to reach me vishalsatyasoni@gmail.com
 
 <!---
